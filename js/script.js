@@ -1,0 +1,9 @@
+gsap.from('img-1', 1.2,{opacity: 0, y:150, delay:0.5});
+gsap.from('img-3', 1.2,{opacity: 0, y:150, delay:0.75});
+gsap.from('img-4', 1.2,{opacity: 0, y:150, delay:1});
+gsap.from('img-5', 1.2,{opacity: 0, y:150, delay:1.25});
+gsap.from('img-6', 1.2,{opacity: 0, y:150, delay:1.5});
+gsap.from('img-2', 1.2,{opacity: 0, y:150, delay:1.15});
+gsap.from('h1', 1.2,{opacity: 0, y:-80, delay:1.4});
+gsap.from('p', 1.2,{opacity: 0, y:-80, delay:1.25});
+gsap.from('button', 1.2,{opacity: 0, y:-80, delay:1});
